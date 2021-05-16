@@ -1,6 +1,6 @@
 
 # projeto-labeddit-frontend
-Projeto realizado na Semana 12 do bootcamp Full Stack Labenu
+Projeto realizado na Semana 12 do bootcamp Full Stack da Labenu
 # Tecnologias utilizadas no projeto:
 ##  -Material UI
 ##  -React
